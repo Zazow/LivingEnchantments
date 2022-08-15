@@ -1,0 +1,18 @@
+{
+  "tool_levelup": {
+    "category": "master",
+    "subtitle": "livingenchantments.sounds.tool_levelup",
+    "sounds": [
+      "livingenchantments:tool_levelup_1",
+      "livingenchantments:tool_levelup_2",
+      "livingenchantments:tool_levelup_3"
+    ]
+  },
+  "talent_unlock": {
+    "category": "master",
+    "subtitle": "livingenchantments.sounds.talent_unlock",
+    "sounds": [
+      "livingenchantments:talent_unlock"
+    ]
+  }
+}
